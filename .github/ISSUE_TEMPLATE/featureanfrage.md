@@ -1,7 +1,7 @@
 ---
 name: Featureanfrage
 about: Schlage eine Idee für dieses Projekt vor
-title: ''
+title: "[FEATURE] - "
 labels: feature, requested
 assignees: ''
 

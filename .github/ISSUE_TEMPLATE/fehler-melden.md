@@ -1,7 +1,7 @@
 ---
 name: Fehler melden
 about: Bitte erstelle einen Fehlerbericht und helfe uns den Fehler zu beseitigen
-title: "[BUG] - Einen Titel eingeben"
+title: "[BUG] - "
 labels: bug, open
 assignees: timvallandi
 
